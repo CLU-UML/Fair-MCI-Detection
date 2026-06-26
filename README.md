@@ -12,7 +12,7 @@ Mild Cognitive Impairment (MCI) is a medical condition characterized by a notice
 
 ## Setup
 ```
-git clone git@github.com:wilnn/Fair-MCI-Detection.git
+git clone git@github.com:CLU-UML/Fair-MCI-Detection.git
 cd Fair-MCI-Detection
 conda create -n Fair-MCI-Detection python=3.12.11
 conda activate Fair-MCI-Detection
